@@ -1,0 +1,14 @@
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\bin\Debug\net8.0\lab4.exe
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\bin\Debug\net8.0\lab4.deps.json
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\bin\Debug\net8.0\lab4.runtimeconfig.json
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\bin\Debug\net8.0\lab4.dll
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\bin\Debug\net8.0\lab4.pdb
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.AssemblyInfoInputs.cache
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.AssemblyInfo.cs
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.csproj.CoreCompileInputs.cache
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.dll
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\refint\lab4.dll
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.pdb
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\lab4.genruntimeconfig.cache
+C:\Lessons\АППЗ\lab4\C#\lab4\lab4\obj\Debug\net8.0\ref\lab4.dll

@@ -1,0 +1,14 @@
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\bin\Debug\net8.0\lab5.exe
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\bin\Debug\net8.0\lab5.deps.json
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\bin\Debug\net8.0\lab5.runtimeconfig.json
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\bin\Debug\net8.0\lab5.dll
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\bin\Debug\net8.0\lab5.pdb
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.AssemblyInfoInputs.cache
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.AssemblyInfo.cs
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.csproj.CoreCompileInputs.cache
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.dll
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\refint\lab5.dll
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.pdb
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\lab5.genruntimeconfig.cache
+C:\Lessons\АППЗ\lab5\C#\lab5\lab5\obj\Debug\net8.0\ref\lab5.dll

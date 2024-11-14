@@ -1,0 +1,14 @@
+C:\Lessons\АППЗ\C#\lab11\lab11\bin\Debug\net8.0\lab11.exe
+C:\Lessons\АППЗ\C#\lab11\lab11\bin\Debug\net8.0\lab11.deps.json
+C:\Lessons\АППЗ\C#\lab11\lab11\bin\Debug\net8.0\lab11.runtimeconfig.json
+C:\Lessons\АППЗ\C#\lab11\lab11\bin\Debug\net8.0\lab11.dll
+C:\Lessons\АППЗ\C#\lab11\lab11\bin\Debug\net8.0\lab11.pdb
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfoInputs.cache
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfo.cs
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.csproj.CoreCompileInputs.cache
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.dll
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\refint\lab11.dll
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.pdb
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\lab11.genruntimeconfig.cache
+C:\Lessons\АППЗ\C#\lab11\lab11\obj\Debug\net8.0\ref\lab11.dll

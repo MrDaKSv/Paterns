@@ -1,0 +1,14 @@
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\bin\Debug\net8.0\lab9.exe
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\bin\Debug\net8.0\lab9.deps.json
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\bin\Debug\net8.0\lab9.dll
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\bin\Debug\net8.0\lab9.pdb
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.dll
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\refint\lab9.dll
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.pdb
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+C:\Lessons\АППЗ\lab9\C#\lab9\lab9\obj\Debug\net8.0\ref\lab9.dll

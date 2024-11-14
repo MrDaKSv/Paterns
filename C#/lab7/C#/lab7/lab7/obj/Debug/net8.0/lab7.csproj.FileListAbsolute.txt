@@ -1,0 +1,14 @@
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfoInputs.cache
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfo.cs
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.csproj.CoreCompileInputs.cache
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\bin\Debug\net8.0\lab7.exe
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\bin\Debug\net8.0\lab7.deps.json
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\bin\Debug\net8.0\lab7.runtimeconfig.json
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\bin\Debug\net8.0\lab7.dll
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\bin\Debug\net8.0\lab7.pdb
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.dll
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\refint\lab7.dll
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.pdb
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\lab7.genruntimeconfig.cache
+C:\Lessons\АППЗ\lab7\C#\lab7\lab7\obj\Debug\net8.0\ref\lab7.dll
